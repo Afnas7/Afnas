@@ -1,0 +1,12 @@
+body {
+    background-color:rgb(185, 246, 246);
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: rgb(190, 6, 6);
+  }
+  li{
+    color: blueviolet;
+  }
